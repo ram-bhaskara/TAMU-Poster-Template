@@ -1,9 +1,9 @@
-# Unofficial Poster Template for University of Cambridge
+# Unofficial Poster Template for Texas A&M University. The poster dimensions are 48x36 inches.  
  [![Overleaf Template](https://img.shields.io/badge/Overleaf-Template-success?logo=overleaf)](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-uchicago-computer-science/kbbmbdxwbypb)
 
 A fork of Gemini. Also available on Overleaf.
 
-![gemini_cam](https://user-images.githubusercontent.com/11074066/199757993-851d5934-b7d5-4805-a666-704cc9b7c799.png)
+![gemini_tamu](https://github.com/ram-bhaskara/TAMU-Poster-Template/blob/main/TAMU_Poster_Template.png)
 
 ## Dependencies
 

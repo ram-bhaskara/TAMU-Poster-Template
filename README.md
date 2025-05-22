@@ -1,5 +1,7 @@
-# Unofficial Poster Template for Texas A&M University. The poster dimensions are 48x36 inches.  
- [![Overleaf Template](https://img.shields.io/badge/Overleaf-Template-success?logo=overleaf)](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-uchicago-computer-science/kbbmbdxwbypb)
+# Unofficial Poster Template for Texas A&M University. 
+
+## Poster dimensions: 48x36 inches.  
+<!-- [![Overleaf Template](https://img.shields.io/badge/Overleaf-Template-success?logo=overleaf)](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-uchicago-computer-science/kbbmbdxwbypb) -->
 
 A fork of Gemini. Also available on Overleaf.
 

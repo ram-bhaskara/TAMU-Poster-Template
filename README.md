@@ -1,8 +1,11 @@
 # Unofficial Poster Template for Texas A&M University. 
 
-## Poster dimensions: 48x36 inches. 
+## Poster dimensions: 48x36 inches.
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+ 
 Preview PDF [here](https://github.com/ram-bhaskara/TAMU-Poster-Template/blob/main/TAMU_Poster_Template.pdf).
-<!-- [![Overleaf Template](https://img.shields.io/badge/Overleaf-Template-success?logo=overleaf)](https://www.overleaf.com/latex/templates/unofficial-poster-template-for-uchicago-computer-science/kbbmbdxwbypb) -->
+
 
 A fork of Gemini. Also available on Overleaf.
 

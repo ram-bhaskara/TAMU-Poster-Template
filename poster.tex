@@ -1,8 +1,8 @@
 % A Texas A&M template (unofficial)
-% For research posters: 48 x 36 inches. Recommended at STEM conferences. 
+% For research posters: 48 x 36 inches. Recommended dimensions for STEM conference poster. 
 % a fork of https://github.com/anishathalye/gemini
 
-% Author: Ramchander Bhaskara (LASR Lab, Aerospace Engg, TAMU).
+% Author: Ram Bhaskara (LASR Lab, Aerospace Engg, TAMU).
 
 \documentclass[final]{beamer}
 
@@ -22,6 +22,8 @@
 \usepackage{pgfplots}
 \pgfplotsset{compat=1.14}
 \usepackage{anyfontsize}
+
+\hypersetup{colorlinks,linkcolor=aggieMaroon,urlcolor=aggieMaroon}
 
 % ====================
 % Lengths
@@ -60,7 +62,7 @@ Founding Titan
 
 \footercontent{
   \href{https://en.wikipedia.org/wiki/Attack_on_Titan}{Web: Attack on Titan} \hfill
-  Attack on Titan \hfill
+  Attack on Titan \hfill Date \hfill
   \href{mailto:example@gmail.com}{example@gmail.com}}
 % (can be left out to remove footer)
 
@@ -69,7 +71,7 @@ Founding Titan
 % ====================
 
 % use this to include logos on the left and/or right side of the header:
-\logoright{\includegraphics[height=5cm]{logos/AERO_horiz.pdf}}
+\logoright{\includegraphics[height=5cm]{logos/AERO_LASRL_logo_HMaroon.pdf}}
 % \logoleft{\includegraphics[height=4cm]{logos/AERO_horiz.pdf}}
 
 % ====================
@@ -108,6 +110,7 @@ Some block contents, followed by a diagram, followed by a dummy paragraph.
           -- (-0.2,-0.2) -- (0,-1) -- (0.2,-0.2) -- cycle;
       \end{tikzpicture}
       \caption{A figure caption.}
+      \label{fig:ItsFigure}
     \end{figure}
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultricies
@@ -121,7 +124,7 @@ Some block contents, followed by a diagram, followed by a dummy paragraph.
   \begin{block}{A block containing a list}
 
     Nam vulputate nunc felis, non condimentum lacus porta ultrices. Nullam sed
-    sagittis metus. Etiam consectetur gravida urna quis suscipit.
+    sagittis metus. Etiam consectetur gravida urna quis suscipit. 
 
     \begin{itemize}
       \item \textbf{Mauris tempor} risus nulla, sed ornare
@@ -193,7 +196,7 @@ Some block contents, followed by a diagram, followed by a dummy paragraph.
     vestibulum, lectus nisi pretium nibh, sit amet aliquam lectus augue vel
     velit. Suspendisse rhoncus massa porttitor augue feugiat molestie. Sed
     molestie ut orci nec malesuada. Sed ultricies feugiat est fringilla
-    posuere.
+    posuere. Figure reference Fig.~\ref{fig:ItsFigure}.
 
 \vspace{1em}
 
